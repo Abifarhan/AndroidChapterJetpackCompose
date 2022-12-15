@@ -173,6 +173,7 @@ fun CreateImageProfile(modifier: Modifier = Modifier) {
             contentDescription = "Cat Images",
             modifier = modifier.size(135.dp),
             contentScale = ContentScale.Crop
+
         )
 
     }
